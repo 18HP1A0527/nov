@@ -18,3 +18,12 @@
   * Oranges
   * Apples
   * Bananas
+1. Vegetables
+    1. Tomato
+    2. Onion
+    3. Carrot
+
+Sno|Name
+---|----
+1|Bhavya
+2|Kavitha
